@@ -22,4 +22,4 @@ def makeChange(coins, total):
             coins_count += 1
         else:
             coin_idx += 1
-    return coins_count￼Enter
+    return coins_count
